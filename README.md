@@ -21,22 +21,24 @@ Output files are named after the script names and they are written in the same d
 Data table will be inserted in this github page once the paper is accepted.
 Meanwhile, reviewers can access the data table in zenodo using a private link.
 
+***
 * script1a: show all sampling sites on world map, output pdf file 
 * script1b: fit local and global time series models for all response variables using wall clock times, output pdf file
 * script1c: fit global time series models for 15 response variables and show predictions for selected latitudes using wall clock times, output pdf file
 * script1d: calculate permutation test for R2 values, this takes several hours
 * script1e: calculate R2 values for 15 response variables using wall clock times, output pdf file
 * script1f: calculate urban-natural difference for 15 response variables using wall clock times, output pdf file
-
+***
 * script2a: convert wall clock times to sunset-sunrise times (this takes several hours), output files of this script are needed in scripts 2b-2e, note: these are precomputed in the datatable directory
 * script2b: fit local and global time series models for all response variables using sunset-sunrise times, output pdf file
 * script2c: fit global time series models for 15 response variables and show predictions for selected latitudes using sunset-sunrise times, output pdf file
 * script2d: calculate permutatation test for R2 values, this takes several hours
 * script2e: calculate R2 values for 15 response variables using sunset-sunrise times, output pdf file
 * script2f: calculate urban-natural difference for 15 response variables using sunset-sunrise times, output pdf file
-
+***
 * script3: correlation between 15 response variables, output pdf file
-
+***
 * script4: differences of bird species richnesses between urban and natural sites (analyses based on species accumulation curves), output pdf file
-
+***
 * script5: bird trait differences between urban and natural sites (Wilcoxon signed rank test for proportions of community weighted means of AVONET traits), output pdf file and text file containing the results
+***
