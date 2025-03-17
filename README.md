@@ -28,7 +28,7 @@ Meanwhile, reviewers can access the data table in zenodo using a private link.
 * script1e: calculate R2 values for 15 response variables using wall clock times, output pdf file
 * script1f: calculate urban-natural difference for 15 response variables using wall clock times, output pdf file
 
-* script2a: convert wall clock times to sunset-sunrise times (this takes several hours), output files of this script are needed in scripts 2b-2e, note: these are precomputed in the datatable directory.
+* script2a: convert wall clock times to sunset-sunrise times (this takes several hours), output files of this script are needed in scripts 2b-2e, note: these are precomputed in the datatable directory
 * script2b: fit local and global time series models for all response variables using sunset-sunrise times, output pdf file
 * script2c: fit global time series models for 15 response variables and show predictions for selected latitudes using sunset-sunrise times, output pdf file
 * script2d: calculate permutatation test for R2 values, this takes several hours
