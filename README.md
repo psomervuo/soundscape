@@ -12,7 +12,7 @@ Scripts are implemented using Bash, Perl, Python, and R. Two binaries 'convertLi
 
 Data analyses have been done using R version 4.4.2. in a laptop running Linux Ubuntu OS. Required R packages are maps, MASS, colorspace, and suncalc.
 All analyses scripts are in file figscripts.zip and its downloading takes few seconds.
-After uncompressing the zip file, there is a separarate script for each analysis in order to reproduce all analyses done in the manuscript.
+After uncompressing the zip file, there is a separate script for each analysis in order to reproduce all analyses done in the manuscript.
 Short description of each script is given below.
 Running the analysis with a data table with 1.5M rows takes few minutes with the exception of permutation test used for assessing the statistical significance (script1d and script2d) and calculating sunrise-sunset times (script2a) that take several hours.
 All R scripts should be run in the same directory where the data table is (directory datatable).
